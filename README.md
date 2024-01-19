@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 <!--
+<div>
+  <a href="https://github.com/deividcotes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deividcotes&show_icons=true&theme=gruvbox&include_allcommits=true&count_private=true"/>
+</div>
+
+
 **DeividCotes/deividcotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👌
 -->
